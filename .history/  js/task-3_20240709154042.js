@@ -1,0 +1,3 @@
+class springBuilder {
+    initialValue
+}
